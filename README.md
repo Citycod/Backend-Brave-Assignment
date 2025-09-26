@@ -97,9 +97,9 @@ Response Example:
 📎 Repository Links
 
 Backend (Cart Service): checkout-cart-service
-
+https://github.com/Citycod/Backend-Brave-Assignment.git
 Frontend: checkout-frontend
-
+https://github.com/Citycod/Frontend-brave-assignment.git
 👨‍💻 Author
 
 Name: Edudje Wisdom Marvellous
